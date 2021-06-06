@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"Devansh Arora",
-    "description":"I am a web development engineer and I use react and css to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I am a web development engineer and I use react and css to develop pages. This project is my resume website",
     "image":"profilepic.jpg",
     "bio":"Looking for internships/work opportunities in the same field where I can apply my knowledge. I have completed some courses related to Deep Learning and Web development and have experience working in a startup. Besides this, I have completed courses related to machine learning, like deep learning from Coursera. I know how to design using various algorithms.",
     "contactmessage":"Send an email",
-    "email": "daa.devansh@gmail.com",
-    "phone": "9416019633",
+    "email": "daa [dot] devansh [at] gmail.com",
+    "phone": "",
     "github":"https://github.com/dadevansh",
     "project":"https://github.com/dadevansh/WEBDEV_PROJECTS",
     "address":{
-      "street":"WZ-83A, Near Tikona Park,",
-      "city":"School Road, Uttam Nagar",
-      "state":"New Delhi",
-      "zip": "110059"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "website": "https://www.linkedin.com/in/devansh-arora-348581198/",
     "resumedownload":"https://www.linkedin.com/in/devansh-arora-348581198/",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Maharaja Agrasen Institute of Technology",
@@ -64,7 +64,7 @@
         "company":"andwemet.com",
         "title":"Full stack web developer",
         "years":"May 2020 - June 2020",
-        "description":"Worked with Rest Apis and Custom authentication."
+        "description":"Created polls Feature for the website and OAuth to login througth third party apps."
       }
     ],
     "skills":[
@@ -79,11 +79,11 @@
       },
       {
         "name":"C++",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"Python",
-        "level":"60%"
+        "level":"65%"
       }
     ]
   },
@@ -106,12 +106,6 @@
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
       }
     ]
   }
