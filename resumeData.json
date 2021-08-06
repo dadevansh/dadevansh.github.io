@@ -1,111 +1,110 @@
 {
   "main": {
-    "name":"Devansh Arora",
-    "description":"I am a web development engineer and I use react and css to develop pages. This project is my resume website",
-    "image":"profilepic.jpg",
-    "bio":"Looking for internships/work opportunities in the same field where I can apply my knowledge. I have completed some courses related to Deep Learning and Web development and have experience working in a startup. Besides this, I have completed courses related to machine learning, like deep learning from Coursera. I know how to design using various algorithms.",
-    "contactmessage":"Send an email",
+    "name": "Devansh Arora",
+    "description": "I am a web development engineer and I use react and css to develop pages. This project is my resume website",
+    "image": "profilepic.jpg",
+    "bio": "Looking for internships/work opportunities in the same field where I can apply my knowledge. I have completed some courses related to Deep Learning and Web development and have experience working in a startup. Besides this, I have completed courses related to machine learning, like deep learning from Coursera. I know how to design using various algorithms.",
+    "contactmessage": "Send an email",
     "email": "daa [dot] devansh [at] gmail.com",
     "phone": "",
-    "github":"https://github.com/dadevansh",
-    "project":"https://github.com/dadevansh/WEBDEV_PROJECTS",
-    "address":{
-      "street":"",
-      "city":"",
-      "state":"",
+    "github": "https://github.com/dadevansh",
+    "project": "https://github.com/dadevansh/WEBDEV_PROJECTS",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/devansh-arora-348581198/",
-    "resumedownload":"https://www.linkedin.com/in/devansh-arora-348581198/",
-    "social":[
+    "resumedownload": "https://www.linkedin.com/in/devansh-arora-348581198/",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/da.devansh/",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/da.devansh/",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/dashitposts",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/dashitposts",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/devansh-arora-348581198/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/devansh-arora-348581198/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/da.devansh",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/da.devansh",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/dadevansh",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/dadevansh",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"Maharaja Agrasen Institute of Technology",
-        "degree":"B.Tech in Computer science",
-        "graduated":"August 2019-present"
+        "school": "Maharaja Agrasen Institute of Technology",
+        "degree": "B.Tech in Computer science",
+        "graduated": "August 2019-present"
       },
       {
-        "school":"VVDAV Public School, Vikas puri, New Delhi",
-        "degree":"High School",
-        "graduated":"May 2019"
+        "school": "VVDAV Public School, Vikas puri, New Delhi",
+        "degree": "High School",
+        "graduated": "May 2019"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"andwemet.com",
-        "title":"Full stack web developer",
-        "years":"May 2020 - June 2020",
-        "description":"Created polls Feature for the website and OAuth to login througth third party apps."
+        "company": "andwemet.com",
+        "title": "Full stack web developer",
+        "years": "May 2021 - July 2021",
+        "description": "Created polls Feature for the website and OAuth to login througth third party apps."
       }
     ],
-    "skills":[
-      
+    "skills": [
       {
-        "name":"ReactJs",
-        "level":"90%"
+        "name": "ReactJs",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"70%"
+        "name": "CSS",
+        "level": "70%"
       },
       {
-        "name":"C++",
-        "level":"60%"
+        "name": "C++",
+        "level": "60%"
       },
       {
-        "name":"Python",
-        "level":"65%"
+        "name": "Python",
+        "level": "55%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Travel Organisation",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Travel Organisation",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"StoryBooks",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "StoryBooks",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Meme Generator",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Meme Generator",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       }
     ]
   }
