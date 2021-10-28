@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/devansh-arora-348581198/",
-    "resumedownload": "https://www.linkedin.com/in/devansh-arora-348581198/",
+    "resumedownload": "https://drive.google.com/file/d/14iy9jFVNK9eLTCPY1E_NigrJZSQCv3kJ/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -64,7 +64,7 @@
         "company": "andwemet.com",
         "title": "Full stack web developer",
         "years": "May 2021 - July 2021",
-        "description": "Created polls Feature for the website and OAuth to login througth third party apps."
+        "description": "Developed a fully responsive third party login feature without affecting the existing users and collect their email ids. Shifting users from getting an otp to login to simply login with Google , saving the company a ton of fortune from message provider. Creating a faster and simpler login experience for users.\n Also developed a polls feature for admin and users to interact among themselves with no more than 200 words for questions and 50 words for answer"
       }
     ],
     "skills": [
