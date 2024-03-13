@@ -61,8 +61,20 @@
     ],
     "work": [
       {
+        "company": "Awiros",
+        "title": "Computer Vision Engineer",
+        "years": "September 2023 - Present",
+        "description": "Developed and optimized an image classifier using multiple architectures (EfficientNet-B4, B7, ResNet-50, 100) to differ-entiate bag-containing images, conducting accuracy evaluations, employing diverse loss functions, implementing adaptivetraining, and converting the final model into ONNX for seamless application integration.\nEngineered an LSTM-based model analyzing 50 sequential frames to detect person collapses, including independent datasetcuration, model training from scratch, inference script creation, incremental training for ongoing accuracy improvement,reducing false alerts by 20%.\nSegmentation of a trained model into CNN and RNN components for ONNX model creation, feature extraction orchestra-tion, and customized person detection by fine-tuning a generalized model.\nEnhanced existing ANPR with 30% increase its processing speed and 4% improvement in accuracy by optimizing the OCRalgorithm.• Created a generic OCR solution capable of accurately interpreting text written on any surface with enough contrast."
+      },
+      {
+        "company": "ClickLabs",
+        "title": "Software Development Intern",
+        "years": "January 2022 - May 2023",
+        "description": "Integrated multiple SMS gateways, payment gateways, third-party PoS, and e-commerce platforms, which expanded reach, improved customer engagement, and streamlined transactions leading to increased sales. \nTook care of customer support tickets. Providing timely assistance and resolving inquiries ensuring customer satisfaction. \nUtilized APIs, Webhooks, and Crons to automate tasks on our platform, improving efficiency and enhancing user experience."
+      },
+      {
         "company": "andwemet.com",
-        "title": "Full stack web developer",
+        "title": "Full Stack Web Developer",
         "years": "May 2021 - July 2021",
         "description": "Developed a fully responsive third party login feature without affecting the existing users and collect their email ids. Shifting users from getting an otp to login to simply login with Google , saving the company a ton of fortune from message provider. Creating a faster and simpler login experience for users.\n Also developed a polls feature for admin and users to interact among themselves with no more than 200 words for questions and 50 words for answer"
       }
